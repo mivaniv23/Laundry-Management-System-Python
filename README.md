@@ -37,7 +37,7 @@ Ensure you have Python installed on your system. You also need to install the fo
 pip install fpdf
 ```
 
-##Functions
+## Functions
 
 1.
 ``` python
@@ -116,7 +116,7 @@ quit_main_menu(tax, charge, customer_info, receipt_number)
 ```
 Displays a goodbye message and saves all data before quitting the program.
 
-##Example Usage
+## Example Usage
 
 When the program runs, the user is presented with a menu. The user can choose from the following options:
 
