@@ -36,6 +36,7 @@ Ensure you have Python installed on your system. You also need to install the fo
 ```bash
 pip install fpdf
 Usage
+```
 
 Functions
 
